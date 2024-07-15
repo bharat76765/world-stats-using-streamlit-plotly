@@ -1,0 +1,235 @@
+,country,continent,2023 population,world percentage,area (km²),growth rate
+0,India,Asia,1428627663,17.85%,3287590.0,0.81%
+1,China,Asia,1425671352,17.81%,9706961.0,-0.02%
+2,United States,North America,339996563,4.25%,9372610.0,0.50%
+3,Indonesia,Asia,277534122,3.47%,1904569.0,0.74%
+4,Pakistan,Asia,240485658,3.00%,881912.0,1.98%
+5,Nigeria,Africa,223804632,2.80%,923768.0,2.41%
+6,Brazil,South America,216422446,2.70%,8515767.0,0.52%
+7,Bangladesh,Asia,172954319,2.16%,147570.0,1.03%
+8,Russia,Europe,144444359,1.80%,17098242.0,-0.19%
+9,Mexico,North America,128455567,1.60%,1964375.0,0.75%
+10,Ethiopia,Africa,126527060,1.58%,1104300.0,2.55%
+11,Japan,Asia,123294513,1.54%,377930.0,-0.53%
+12,Philippines,Asia,117337368,1.47%,342353.0,1.54%
+13,Egypt,Africa,112716598,1.41%,1002450.0,1.56%
+14,DR Congo,Africa,102262808,1.28%,2344858.0,3.29%
+15,Vietnam,Asia,98858950,1.23%,331212.0,0.68%
+16,Iran,Asia,89172767,1.11%,1648195.0,0.70%
+17,Turkey,Asia,85816199,1.07%,783562.0,0.56%
+18,Germany,Europe,83294633,1.04%,357114.0,-0.09%
+19,Thailand,Asia,71801279,0.90%,513120.0,0.15%
+20,United Kingdom,Europe,67736802,0.85%,242900.0,0.34%
+21,Tanzania,Africa,67438106,0.84%,945087.0,2.96%
+22,France,Europe,64756584,0.81%,551695.0,0.20%
+23,South Africa,Africa,60414495,0.75%,1221037.0,0.87%
+24,Italy,Europe,58870762,0.74%,301336.0,-0.28%
+25,Kenya,Africa,55100586,0.69%,580367.0,1.99%
+26,Myanmar,Asia,54577997,0.68%,676578.0,0.74%
+27,Colombia,South America,52085168,0.65%,1141748.0,0.41%
+28,South Korea,Asia,51784059,0.65%,100210.0,-0.06%
+29,Uganda,Africa,48582334,0.61%,241550.0,2.82%
+30,Sudan,Africa,48109006,0.60%,1886068.0,2.63%
+31,Spain,Europe,47519628,0.59%,505992.0,-0.08%
+32,Argentina,South America,45773884,0.57%,2780400.0,0.58%
+33,Algeria,Africa,45606480,0.57%,2381741.0,1.57%
+34,Iraq,Asia,45504560,0.57%,438317.0,2.27%
+35,Afghanistan,Asia,42239854,0.53%,652230.0,2.70%
+36,Poland,Europe,41026067,0.51%,312679.0,2.93%
+37,Canada,North America,38781291,0.48%,9984670.0,0.85%
+38,Morocco,Africa,37840044,0.47%,446550.0,1.02%
+39,Saudi Arabia,Asia,36947025,0.46%,2149690.0,1.48%
+40,Ukraine,Europe,36744634,0.46%,603500.0,-7.45%
+41,Angola,Africa,36684202,0.46%,1246700.0,3.08%
+42,Uzbekistan,Asia,35163944,0.44%,447400.0,1.55%
+43,Yemen,Asia,34449825,0.43%,527968.0,2.24%
+44,Peru,South America,34352719,0.43%,1285216.0,0.89%
+45,Malaysia,Asia,34308525,0.43%,330803.0,1.09%
+46,Ghana,Africa,34121985,0.43%,238533.0,1.93%
+47,Mozambique,Africa,33897354,0.42%,801590.0,2.81%
+48,Nepal,Asia,30896590,0.39%,147181.0,1.14%
+49,Madagascar,Africa,30325732,0.38%,587041.0,2.41%
+50,Ivory Coast,Africa,28873034,0.36%,322463.0,2.53%
+51,Venezuela,South America,28838499,0.36%,916445.0,1.90%
+52,Cameroon,Africa,28647293,0.36%,475442.0,2.63%
+53,Niger,Africa,27202843,0.34%,1267000.0,3.80%
+54,Australia,Oceania,26439111,0.33%,7692024.0,1.00%
+55,North Korea,Asia,26160821,0.33%,120538.0,0.35%
+56,Taiwan,Asia,23923276,0.30%,36193.0,0.13%
+57,Mali,Africa,23293698,0.29%,1240192.0,3.10%
+58,Burkina Faso,Africa,23251485,0.29%,272967.0,2.55%
+59,Syria,Asia,23227014,0.29%,185180.0,4.98%
+60,Sri Lanka,Asia,21893579,0.27%,65610.0,0.28%
+61,Malawi,Africa,20931751,0.26%,118484.0,2.58%
+62,Zambia,Africa,20569737,0.26%,752612.0,2.76%
+63,Romania,Europe,19892812,0.25%,238391.0,1.19%
+64,Chile,South America,19629590,0.25%,756102.0,0.13%
+65,Kazakhstan,Asia,19606633,0.24%,2724900.0,1.08%
+66,Chad,Africa,18278568,0.23%,1284000.0,3.13%
+67,Ecuador,South America,18190484,0.23%,276841.0,1.05%
+68,Somalia,Africa,18143378,0.23%,637657.0,3.10%
+69,Guatemala,North America,18092026,0.23%,108889.0,1.39%
+70,Senegal,Africa,17763163,0.22%,196722.0,2.58%
+71,Netherlands,Europe,17618299,0.22%,41850.0,0.31%
+72,Cambodia,Asia,16944826,0.21%,181035.0,1.06%
+73,Zimbabwe,Africa,16665409,0.21%,390757.0,2.11%
+74,Guinea,Africa,14190612,0.18%,245857.0,2.39%
+75,Rwanda,Africa,14094683,0.18%,26338.0,2.31%
+76,Benin,Africa,13712828,0.17%,112622.0,2.70%
+77,Burundi,Africa,13238559,0.17%,27834.0,2.71%
+78,Tunisia,Africa,12458223,0.16%,163610.0,0.83%
+79,Bolivia,South America,12388571,0.15%,1098581.0,1.35%
+80,Haiti,North America,11724763,0.15%,27750.0,1.21%
+81,Belgium,Europe,11686140,0.15%,30528.0,0.26%
+82,Jordan,Asia,11337052,0.14%,89342.0,0.45%
+83,Dominican Republic,North America,11332972,0.14%,48671.0,0.93%
+84,Cuba,North America,11194449,0.14%,109884.0,-0.16%
+85,South Sudan,Africa,11088796,0.14%,619745.0,1.61%
+86,Sweden,Europe,10612086,0.13%,450295.0,0.59%
+87,Honduras,North America,10593798,0.13%,112492.0,1.54%
+88,Czech Republic,Europe,10495295,0.13%,78865.0,0.01%
+89,Azerbaijan,Asia,10412651,0.13%,86600.0,0.53%
+90,Greece,Europe,10341277,0.13%,131990.0,-0.42%
+91,Papua New Guinea,Oceania,10329931,0.13%,462840.0,1.85%
+92,Portugal,Europe,10247605,0.13%,92090.0,-0.23%
+93,Hungary,Europe,10156239,0.13%,93028.0,1.90%
+94,Tajikistan,Asia,10143543,0.13%,143100.0,1.92%
+95,United Arab Emirates,Asia,9516871,0.12%,83600.0,0.80%
+96,Belarus,Europe,9498238,0.12%,207600.0,-0.39%
+97,Israel,Asia,9174520,0.11%,20770.0,1.51%
+98,Togo,Africa,9053799,0.11%,56785.0,2.32%
+99,Austria,Europe,8958960,0.11%,83871.0,0.22%
+100,Switzerland,Europe,8796669,0.11%,41284.0,0.64%
+101,Sierra Leone,Africa,8791092,0.11%,71740.0,2.15%
+102,Laos,Asia,7633779,0.10%,236800.0,1.39%
+103,Hong Kong,Asia,7491609,0.09%,1104.0,0.04%
+104,Serbia,Europe,7149077,0.09%,88361.0,-1.00%
+105,Nicaragua,North America,7046310,0.09%,130373.0,1.41%
+106,Libya,Africa,6888388,0.09%,1759540.0,1.12%
+107,Paraguay,South America,6861524,0.09%,406752.0,1.19%
+108,Kyrgyzstan,Asia,6735347,0.08%,199951.0,1.58%
+109,Bulgaria,Europe,6687717,0.08%,110879.0,-1.39%
+110,Turkmenistan,Asia,6516100,0.08%,488100.0,1.33%
+111,El Salvador,North America,6364943,0.08%,21041.0,0.45%
+112,Republic of the Congo,Africa,6106869,0.08%,342000.0,2.29%
+113,Singapore,Asia,6014723,0.08%,710.0,0.65%
+114,Denmark,Europe,5910913,0.07%,43094.0,0.49%
+115,Slovakia,Europe,5795199,0.07%,49037.0,2.69%
+116,Central African Republic,Africa,5742315,0.07%,622984.0,2.92%
+117,Finland,Europe,5545475,0.07%,338424.0,0.09%
+118,Norway,Europe,5474360,0.07%,323802.0,0.74%
+119,Liberia,Africa,5418377,0.07%,111369.0,2.18%
+120,Palestine,Asia,5371230,0.07%,6220.0,2.31%
+121,Lebanon,Asia,5353930,0.07%,10452.0,-2.47%
+122,New Zealand,Oceania,5228100,0.07%,270467.0,0.83%
+123,Costa Rica,North America,5212173,0.07%,51100.0,0.60%
+124,Ireland,Europe,5056935,0.06%,70273.0,0.67%
+125,Mauritania,Africa,4862989,0.06%,1030700.0,2.68%
+126,Oman,Asia,4644384,0.06%,309500.0,1.49%
+127,Panama,North America,4468087,0.06%,75417.0,1.35%
+128,Kuwait,Asia,4310108,0.05%,17818.0,0.97%
+129,Croatia,Europe,4008617,0.05%,56594.0,-0.54%
+130,Eritrea,Africa,3748901,0.05%,117600.0,1.76%
+131,Georgia,Asia,3728282,0.05%,69700.0,-0.43%
+132,Mongolia,Asia,3447157,0.04%,1564110.0,1.44%
+133,Moldova,Europe,3435931,0.04%,33846.0,4.98%
+134,Uruguay,South America,3423108,0.04%,181034.0,0.01%
+135,Puerto Rico,North America,3260314,0.04%,8870.0,0.24%
+136,Bosnia and Herzegovina,Europe,3210847,0.04%,51209.0,-0.70%
+137,Albania,Europe,2832439,0.04%,28748.0,-0.35%
+138,Jamaica,North America,2825544,0.04%,10991.0,-0.06%
+139,Armenia,Asia,2777970,0.03%,29743.0,-0.09%
+140,Gambia,Africa,2773168,0.03%,10689.0,2.48%
+141,Lithuania,Europe,2718352,0.03%,65300.0,-1.15%
+142,Qatar,Asia,2716391,0.03%,11586.0,0.79%
+143,Botswana,Africa,2675352,0.03%,582000.0,1.71%
+144,Namibia,Africa,2604172,0.03%,825615.0,1.45%
+145,Gabon,Africa,2436566,0.03%,267668.0,1.99%
+146,Lesotho,Africa,2330318,0.03%,30355.0,1.06%
+147,Guinea-Bissau,Africa,2150842,0.03%,36125.0,2.15%
+148,Slovenia,Europe,2119675,0.03%,20273.0,-0.01%
+149,North Macedonia,Europe,2085679,0.03%,25713.0,-0.38%
+150,Latvia,Europe,1830211,0.02%,64559.0,-1.10%
+151,Equatorial Guinea,Africa,1714671,0.02%,28051.0,2.37%
+152,Trinidad and Tobago,North America,1534937,0.02%,5130.0,0.25%
+153,Bahrain,Asia,1485509,0.02%,765.0,0.90%
+154,Timor-Leste,Asia,1360596,0.02%,14874.0,1.44%
+155,Estonia,Europe,1322765,0.02%,45227.0,-0.25%
+156,Mauritius,Africa,1300557,0.02%,2040.0,0.08%
+157,Cyprus,Europe,1260138,0.02%,9251.0,0.69%
+158,Eswatini,Africa,1210822,0.02%,17364.0,0.76%
+159,Djibouti,Africa,1136455,0.01%,23200.0,1.39%
+160,Reunion,Africa,981796,0.01%,2511.0,0.80%
+161,Fiji,Oceania,936375,0.01%,18272.0,0.71%
+162,Comoros,Africa,852075,0.01%,1862.0,1.83%
+163,Guyana,South America,813834,0.01%,214969.0,0.63%
+164,Bhutan,Asia,787424,0.01%,38394.0,0.64%
+165,Solomon Islands,Oceania,740424,0.01%,28896.0,2.23%
+166,Macau,Asia,704149,0.01%,32.9,1.29%
+167,Luxembourg,Europe,654768,0.01%,2586.0,1.11%
+168,Montenegro,Europe,626485,0.01%,13812.0,-0.10%
+169,Suriname,South America,623236,0.01%,163820.0,0.84%
+170,Cape Verde,Africa,598682,0.01%,4033.0,0.93%
+171,Western Sahara,Africa,587259,0.01%,266000.0,1.96%
+172,Malta,Europe,535064,0.01%,316.0,0.33%
+173,Maldives,Asia,521021,0.01%,300.0,-0.53%
+174,Brunei,Asia,452524,0.01%,5765.0,0.78%
+175,Bahamas,North America,412623,0.01%,13943.0,0.64%
+176,Belize,North America,410825,0.01%,22966.0,1.37%
+177,Guadeloupe,North America,395839,0.00%,1628.0,0.02%
+178,Iceland,Europe,375318,0.00%,103000.0,0.65%
+179,Martinique,North America,366981,0.00%,1128.0,-0.14%
+180,Mayotte,Africa,335995,0.00%,374.0,3.03%
+181,Vanuatu,Oceania,334506,0.00%,12189.0,2.38%
+182,French Guiana,South America,312155,0.00%,83534.0,2.49%
+183,French Polynesia,Oceania,308872,0.00%,4167.0,0.85%
+184,New Caledonia,Oceania,292991,0.00%,18575.0,1.05%
+185,Barbados,North America,281995,0.00%,430.0,0.13%
+186,Sao Tome and Principe,Africa,231856,0.00%,964.0,1.97%
+187,Samoa,Oceania,225681,0.00%,2842.0,1.48%
+188,Curacao,North America,192077,0.00%,444.0,0.48%
+189,Saint Lucia,North America,180251,0.00%,616.0,0.22%
+190,Guam,Oceania,172952,0.00%,549.0,0.69%
+191,Kiribati,Oceania,133515,0.00%,811.0,1.74%
+192,Grenada,North America,126183,0.00%,344.0,0.59%
+193,Micronesia,Oceania,115224,0.00%,702.0,0.93%
+194,Jersey,Europe,111802,0.00%,116.0,0.92%
+195,Tonga,Oceania,107773,0.00%,747.0,0.86%
+196,Seychelles,Africa,107660,0.00%,452.0,0.51%
+197,Aruba,North America,106277,0.00%,180.0,-0.16%
+198,Saint Vincent and the Grenadines,North America,103698,0.00%,389.0,-0.24%
+199,United States Virgin Islands,North America,98750,0.00%,347.0,-0.72%
+200,Antigua and Barbuda,North America,94298,0.00%,442.0,0.57%
+201,Isle of Man,Europe,84710,0.00%,572.0,0.23%
+202,Andorra,Europe,80088,0.00%,468.0,0.33%
+203,Dominica,North America,73040,0.00%,751.0,0.42%
+204,Cayman Islands,North America,69310,0.00%,264.0,0.88%
+205,Bermuda,North America,64069,0.00%,54.0,-0.18%
+206,Guernsey,Europe,63544,0.00%,78.0,0.38%
+207,Greenland,North America,56643,0.00%,2166086.0,0.31%
+208,Faroe Islands,Europe,53270,0.00%,1393.0,0.34%
+209,Northern Mariana Islands,Oceania,49796,0.00%,464.0,0.49%
+210,Saint Kitts and Nevis,North America,47755,0.00%,261.0,0.21%
+211,Turks and Caicos Islands,North America,46062,0.00%,948.0,0.79%
+212,Sint Maarten,North America,44222,0.00%,34.0,0.11%
+213,American Samoa,Oceania,43914,0.00%,199.0,-0.81%
+214,Marshall Islands,Oceania,41996,0.00%,181.0,1.03%
+215,Liechtenstein,Europe,39584,0.00%,160.0,0.65%
+216,Monaco,Europe,36297,0.00%,2.02,-0.47%
+217,San Marino,Europe,33642,0.00%,61.0,-0.05%
+218,Gibraltar,Europe,32688,0.00%,6.8,0.12%
+219,Saint Martin,North America,32077,0.00%,53.0,0.90%
+220,British Virgin Islands,North America,31538,0.00%,151.0,0.74%
+221,Palau,Oceania,18058,0.00%,459.0,0.02%
+222,Cook Islands,Oceania,17044,0.00%,240.0,0.19%
+223,Anguilla,North America,15899,0.00%,91.0,0.26%
+224,Nauru,Oceania,12780,0.00%,21.0,0.88%
+225,Wallis and Futuna,Oceania,11502,0.00%,274.0,-0.60%
+226,Tuvalu,Oceania,11396,0.00%,26.0,0.74%
+227,Saint Barthelemy,North America,10994,0.00%,21.0,0.25%
+228,Saint Pierre and Miquelon,North America,5840,0.00%,242.0,-0.38%
+229,Montserrat,North America,4386,0.00%,102.0,-0.09%
+230,Falkland Islands,South America,3791,0.00%,12173.0,0.29%
+231,Niue,Oceania,1935,0.00%,261.0,0.05%
+232,Tokelau,Oceania,1893,0.00%,12.0,1.18%
+233,Vatican City,Europe,518,0.00%,0.44,1.57%
