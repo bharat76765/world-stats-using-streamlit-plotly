@@ -6,9 +6,9 @@ import numpy as np
 st.set_page_config(page_title="Plotly Projet", layout="wide")
 @st.cache_data
 def load_data():
-    cont = pd.read_csv('resources/cont.csv')
-    prosperty_index = pd.read_csv("resources/data.csv")
-    lo = pd.read_csv("resources/latlong.csv")
+    cont = pd.read_csv('cont.csv')
+    prosperty_index = pd.read_csv("data.csv")
+    lo = pd.read_csv("latlong.csv")
     prosperty_index['Country'] = prosperty_index['Country'].str.strip()
     cont['country'] = cont['country'].str.strip()
     lo['country'] = lo['country'].str.strip()
