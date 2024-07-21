@@ -10,6 +10,9 @@ This Streamlit application provides an interactive dashboard to visualize and an
 - **Box Plots**: Compare key metrics across continents.
 - **Correlation Heatmap**: Analyze the correlation between different metrics.
 - **Dynamic Insights**: Highlight the top and bottom countries for the selected metric.
+![Screenshot 2024-07-18 165056](https://github.com/user-attachments/assets/e4ab11e4-b905-4141-a4aa-a2720b4d86cc)
+![Screenshot 2024-07-18 165126](https://github.com/user-attachments/assets/9d5ae8b4-5ed0-4d62-a78f-8ab769efe7e2)
+![Screenshot 2024-07-18 165140](https://github.com/user-attachments/assets/98fcb769-4ca0-472f-81b9-db52d40f7ce0)
 
 ## Dataset
 3 dataset6s are provided and all three are necessary as we have manipulated datasets in the main code
