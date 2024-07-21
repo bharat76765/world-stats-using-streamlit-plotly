@@ -1,6 +1,6 @@
 # world-stats-using-streamlit-plotly
 This Streamlit application provides an interactive dashboard to visualize and analyze various metrics for countries around the world. It includes a world map with bubble sizes representing different metrics, top-level insights, bar charts, histograms, box plots, and a correlation heatmap.
-
+![Screenshot 2024-07-18 165030](https://github.com/user-attachments/assets/65407409-eb06-4a49-b630-fedf85d3f65b)
 ## Features
 
 - **Interactive World Map**: Visualize countries on a map with bubble sizes representing a selected metric.
